@@ -31,6 +31,8 @@ const loginProviderStrings = [
   'auth.nih.gov',
   'account.ncbi.nlm.nih.gov',
   'secureauth',
+  'auth.launchpad.nasa.gov',
+  'urs.earthdata.nasa.gov',
 ];
 
 export const buildLoginResult = async (
