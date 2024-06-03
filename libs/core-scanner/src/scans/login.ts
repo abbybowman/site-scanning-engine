@@ -17,6 +17,9 @@ const loginDetectedStrings = [
   'Create Account',
   '"userid"',
   '"password"',
+  '>Log In<',
+  '>Login<',
+  'Create An Account',
 ];
 
 const loginProviderStrings = [
